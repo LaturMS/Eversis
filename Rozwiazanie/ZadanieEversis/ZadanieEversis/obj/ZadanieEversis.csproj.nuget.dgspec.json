@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Latur\\Desktop\\Zadania\\.net\\eversis\\Rozwiazanie\\ZadanieEversis\\ZadanieEversis\\ZadanieEversis.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Latur\\Desktop\\Zadania\\.net\\eversis\\Rozwiazanie\\ZadanieEversis\\ZadanieEversis\\ZadanieEversis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Latur\\Desktop\\Zadania\\.net\\eversis\\Rozwiazanie\\ZadanieEversis\\ZadanieEversis\\ZadanieEversis.csproj",
+        "projectName": "ZadanieEversis",
+        "projectPath": "C:\\Users\\Latur\\Desktop\\Zadania\\.net\\eversis\\Rozwiazanie\\ZadanieEversis\\ZadanieEversis\\ZadanieEversis.csproj",
+        "packagesPath": "C:\\Users\\Latur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Latur\\Desktop\\Zadania\\.net\\eversis\\Rozwiazanie\\ZadanieEversis\\ZadanieEversis\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Latur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
